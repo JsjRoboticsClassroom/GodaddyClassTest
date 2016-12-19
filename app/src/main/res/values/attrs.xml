@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiSquareView">
+        <attr name="squareOneColor" format="color" />
+        <attr name="squareTwoColor" format="color" />
+        <attr name="squareThirdColor" format="color" />
+        <attr name="squareFourthColor" format="color" />
+    </declare-styleable>
+</resources>
